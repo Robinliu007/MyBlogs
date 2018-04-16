@@ -130,8 +130,9 @@ social:
   GitHub: https://github.com/liubin1777 || github
   CSDN: http://blog.csdn.net/meegomeego
   E-Mail: mailto:663907402@qq.com || envelope
-  # Google: https://plus.google.com/yourname || google
+  简书: https://www.jianshu.com/users/7e931befb78f/timeline
   Twitter: https://twitter.com/663907402Bin || twitter
+  掘金: https://juejin.im/user/57d39626a22b9d006c516ebe
   # FB Page: https://www.facebook.com/yourname || facebook
   # VK Group: https://vk.com/yourname || vk
   # StackOverflow: https://stackoverflow.com/yourname || stack-overflow
@@ -217,7 +218,7 @@ excerpt_description: true
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: true
+  enable: false
   length: 300
 
 # Post meta display settings
